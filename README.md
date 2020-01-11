@@ -1,1 +1,1 @@
-# shell-scripts
+# pythhon and shell scripts
