@@ -1,1 +1,1 @@
-# pythhon and shell scripts
+# python and shell scripts
